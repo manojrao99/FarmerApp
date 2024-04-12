@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "98929937879",
+    "project_id": "farmer-app-84103",
+    "storage_bucket": "farmer-app-84103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98929937879:android:c933f0c002b94153e50f92",
+        "android_client_info": {
+          "package_name": "cultyvate.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98929937879-kkeja96cch91qu79pgg85adkj51ngfht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwD-JQigjDZZoisYwstLKxSj29NkR6ay0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98929937879-kkeja96cch91qu79pgg85adkj51ngfht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98929937879-078i9tjb2b2tmmvknfb0u62r0m71o7qq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cultyvate.farmer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

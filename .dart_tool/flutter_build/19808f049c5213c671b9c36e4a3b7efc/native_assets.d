@@ -1,0 +1,1 @@
+ /Users/farm2forktechnologies/Movies/FarmerApp/FarmerApp/.dart_tool/flutter_build/19808f049c5213c671b9c36e4a3b7efc/native_assets.yaml: 
