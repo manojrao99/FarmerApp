@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>98929937879-vvbqsoaa0nf26vfa0vqi0dviks514d2t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.98929937879-vvbqsoaa0nf26vfa0vqi0dviks514d2t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsSw2bar-getISDluZV0fShn-fwOVpi4o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>98929937879</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cultyvate</string>
+	<key>PROJECT_ID</key>
+	<string>farmer-app-84103</string>
+	<key>STORAGE_BUCKET</key>
+	<string>farmer-app-84103.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:98929937879:ios:b9920cbd26253e09e50f92</string>
+</dict>
+</plist>
